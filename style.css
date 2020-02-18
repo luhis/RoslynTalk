@@ -1,0 +1,18 @@
+body {
+    background: linear-gradient(#C774E8, #94D0FF);
+}
+
+.reveal h1 {
+    font-weight: lighter;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.reveal h2 {
+    font-weight: lighter;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.reveal p {
+    font-weight: lighter;
+    font-family: 'Times New Roman', Times, serif;
+}
